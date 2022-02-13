@@ -1,0 +1,26 @@
+
+Device Information: 
+VERSION.RELEASE : 7.0
+VERSION.INCREMENTAL : 6696031
+VERSION.SDK.NUMBER : 24
+BOARD : unknown
+Screen Width : 1080
+Screen Height : 2148
+BOOTLOADER : unknown
+BRAND : google
+CPU_ABI : x86
+CPU_ABI2 : 
+DISPLAY : sdk_google_phone_x86-userdebug 7.0 NYC 6696031 dev-keys
+FINGERPRINT : google/sdk_google_phone_x86/generic_x86:7.0/NYC/6696031:userdebug/dev-keys
+HARDWARE : ranchu
+HOST : abfarm-us-west1-c-0074
+ID : NYC
+MANUFACTURER : Google
+MODEL : Android SDK built for x86
+PRODUCT : sdk_google_phone_x86
+SERIAL : EMULATOR31X1X4X0
+TAGS : dev-keys
+TYPE : userdebug
+UNKNOWN : unknown
+USER : android-build
+ANDROID ID : da440bf05f947af8
