@@ -1,0 +1,27 @@
+
+Device Information: 
+
+Device Application: 
+com.android.smoketest com.android.cts.priv.ctsshim YouTube Android Services Library Example Wallpapers Phone and Messaging Storage Google App Calendar Storage Media Storage Google One Time Init Android Shared Library Home screen tips Documents External Storage HTML Viewer MmsService Download Manager Messenger ConfigUpdater Package Access Helper Downloads license checker PacProcessor Certificate Installer com.android.carrierconfig Android System Contacts Camera Magic Date Android Easter Egg MTP Host Launcher3 com.android.backupconfirm Clock Intent Filter Verification Service Gmail Duo Setup Wizard Settings Storage com.android.sharedstoragebackup Google Play Music Print Spooler Basic Daydreams Input Devices MyFirstSmalli com.android.sdksetup Drive Maps Cell Broadcasts Android System WebView Call Management Google Contacts Sync Key Chain Chrome Phone Gallery Package installer Emulator Smoke Tests Google Play services Google Services Framework Google Text-to-speech Engine Google Partner Setup Google Play Movies & TV API Demos ProxyHandler Fallback Android Keyboard (AOSP) WebView Shell Market Feedback Agent Print Service Recommendation Service Photos Calendar Work profile setup com.android.providers.partnerbookmarks Google Account Manager Live Wallpaper Picker NetSpeed Google Backup Transport OpenWnn Bookmark Provider Settings Calculator com.android.gesture.builder com.android.cts.ctsshim VpnDialogs Hangouts Phone Services Shell com.android.wallpaperbackup Blocked Numbers Storage User Dictionary Emergency information Fused Location System UI com.android.smoketest.tests Custom Locale Sample Soft Keyboard Google Play Games Dev Tools Contacts Storage CaptivePortalLogin 
+VERSION.RELEASE : 7.0
+VERSION.INCREMENTAL : 6696031
+VERSION.SDK.NUMBER : 24
+BOARD : unknown
+BOOTLOADER : unknown
+BRAND : google
+CPU_ABI : x86
+CPU_ABI2 : 
+DISPLAY : sdk_google_phone_x86-userdebug 7.0 NYC 6696031 dev-keys
+FINGERPRINT : google/sdk_google_phone_x86/generic_x86:7.0/NYC/6696031:userdebug/dev-keys
+HARDWARE : ranchu
+HOST : abfarm-us-west1-c-0074
+ID : NYC
+MANUFACTURER : Google
+MODEL : Android SDK built for x86
+PRODUCT : sdk_google_phone_x86
+SERIAL : EMULATOR31X1X4X0
+TAGS : dev-keys
+TYPE : userdebug
+UNKNOWN : unknown
+USER : android-build
+ANDROID ID : da440bf05f947af8
